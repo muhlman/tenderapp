@@ -74,3 +74,4 @@ cypress/videos
 /tests/e2e/screenshots/
 /.metadata/
 keys.properties
+/java/database
